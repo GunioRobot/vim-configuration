@@ -20,6 +20,9 @@ https://github.com/vim-ruby/vim-ruby
 **Haml, SASS & SCSS**<br/>
 <https://github.com/tpope/vim-haml>
 
+**Cucumber**<br/>
+<https://github.com/tpope/vim-cucumber>
+
 ## Vim Extensions
 
 **Pathogen**<br/>
