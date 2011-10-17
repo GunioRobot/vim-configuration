@@ -40,5 +40,11 @@ https://github.com/vim-ruby/vim-ruby
 **Surround**<br/>
 <https://github.com/tpope/vim-surround>
 
+**Nerdtree**
+<https://github.com/scrooloose/nerdtree>
+
+**Lusty Explorer**
+<http://www.vim.org/scripts/script.php?script_id=1890>
+
 **Color Sample Pack**<br/>
 <http://vim.sourceforge.net/scripts/script.php?script_id=625>
