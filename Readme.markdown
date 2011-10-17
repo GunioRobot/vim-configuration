@@ -8,25 +8,25 @@ https://github.com/vim-ruby/vim-ruby
 **Ruby on Rails**<br/>
 <https://github.com/tpope/vim-rails>
 
-**Bundler**
+**Bundler**<br/>
 <https://github.com/tpope/vim-bundler>
 
-**RVM**
+**RVM**<br/>
 <https://github.com/tpope/vim-rvm>
 
-**CoffeeScript**
+**CoffeeScript**<br/>
 <https://github.com/kchmck/vim-coffee-script>
 
-**Haml, SASS & SCSS**
+**Haml, SASS & SCSS**<br/>
 <https://github.com/tpope/vim-haml>
 
 ## Vim Extensions
 
-**Pathogen**
+**Pathogen**<br/>
 <https://github.com/tpope/vim-pathogen>
 
-**Fugitive**
+**Fugitive**<br/>
 <https://github.com/tpope/vim-fugitive>
 
-**Surround**
+**Surround**<br/>
 <https://github.com/tpope/vim-surround>
