@@ -27,4 +27,4 @@ set wildmode=list:longest
 set ignorecase
 set smartcase
 
-colorscheme vividchalk
+colorscheme zenburn
