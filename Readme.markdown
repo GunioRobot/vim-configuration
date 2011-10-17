@@ -2,7 +2,10 @@
 
 ## Programming Languages & tools
 
-**Ruby on Rails**
+**Ruby**<br/>
+https://github.com/vim-ruby/vim-ruby
+
+**Ruby on Rails**<br/>
 <https://github.com/tpope/vim-rails>
 
 **Bundler**
