@@ -33,3 +33,6 @@ https://github.com/vim-ruby/vim-ruby
 
 **Surround**<br/>
 <https://github.com/tpope/vim-surround>
+
+**Color Sample Pack**<br/>
+<http://vim.sourceforge.net/scripts/script.php?script_id=625>
