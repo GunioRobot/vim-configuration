@@ -23,6 +23,12 @@ https://github.com/vim-ruby/vim-ruby
 **Cucumber**<br/>
 <https://github.com/tpope/vim-cucumber>
 
+**Objective-C/ Cocoa**<br/>
+<https://github.com/msanders/cocoa.vim>
+
+**ActionScript 3**<br/>
+<https://github.com/jeroenbourgois/vim-actionscript>
+
 ## Vim Extensions
 
 **Pathogen**<br/>
