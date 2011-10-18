@@ -54,5 +54,5 @@ https://github.com/vim-ruby/vim-ruby
 **Color Sample Pack**<br/>
 <http://vim.sourceforge.net/scripts/script.php?script_id=625>
 
-**Command-T**
+**Command-T**<br/>
 <https://wincent.com/products/command-t>
