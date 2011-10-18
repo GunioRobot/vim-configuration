@@ -37,6 +37,11 @@ https://github.com/vim-ruby/vim-ruby
 **Fugitive**<br/>
 <https://github.com/tpope/vim-fugitive>
 
+**Routes**
+
+**Endwise**
+<https://github.com/tpope/vim-endwise>
+
 **Surround**<br/>
 <https://github.com/tpope/vim-surround>
 
