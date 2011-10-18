@@ -1,6 +1,7 @@
 set nocompatible
 
 call pathogen#infect()
+call pathogen#helptags()
 syntax enable
 filetype plugin indent on
 
@@ -26,5 +27,10 @@ set wildmode=list:longest
 
 set ignorecase
 set smartcase
+
+set directory=$HOME/.vim/tmp//,.
+set laststatus=2
+
+autocmd BufEnter * silent! lcd %:p:h
 
 colorscheme zenburn
