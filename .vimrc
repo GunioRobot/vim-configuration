@@ -31,6 +31,8 @@ set smartcase
 set directory=$HOME/.vim/tmp//,.
 set laststatus=2
 
+set tabstop=3
+
 autocmd BufEnter * silent! lcd %:p:h
 
 colorscheme zenburn

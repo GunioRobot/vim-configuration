@@ -56,3 +56,6 @@ https://github.com/vim-ruby/vim-ruby
 
 **Command-T**<br/>
 <https://wincent.com/products/command-t>
+
+**Auto-Close**
+<https://github.com/anyakichi/vim-autoclose>
