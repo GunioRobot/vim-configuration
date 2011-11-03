@@ -31,8 +31,18 @@ set smartcase
 set directory=$HOME/.vim/tmp//,.
 set laststatus=2
 
-set tabstop=3
+set tabstop=2:
+set shiftwidth=2
+set expandtab
+set smarttab
+set autoindent
+set smartindent
 
-autocmd BufEnter * silent! lcd %:p:h
+set formatoptions=tq
+set wrapmargin=4
+
+"autocmd BufEnter * silent! lcd %:p:h
 
 colorscheme zenburn
+
+au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
