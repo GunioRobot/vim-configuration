@@ -46,3 +46,5 @@ set wrapmargin=4
 colorscheme zenburn
 
 au BufNewFile,BufReadPost *.coffee setl shiftwidth=2 expandtab
+
+let NERDTreeShowHidden=1
