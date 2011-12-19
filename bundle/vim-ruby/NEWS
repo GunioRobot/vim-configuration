@@ -196,7 +196,7 @@ could be supported if requested.
 There is a new eRuby indent file which simply sources the HTML indent file for
 now.
 
-== eRuby Compiler Plugin 
+== eRuby Compiler Plugin
 
 This now supports erb as the default 'makeprg'. To use eruby set the
 eruby_compiler variable to "eruby" in your .vimrc

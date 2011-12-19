@@ -16,7 +16,7 @@ function usage() {
 Creates appropriately named .tar.gz and .zip files containing the files in
 the current \$CVSROOT for release 'release-tag' of the CVS module 'cvsmodule'.
 
-  usage: $progname [options] -t release-tag -r release-number cvsmodule 
+  usage: $progname [options] -t release-tag -r release-number cvsmodule
 
 options:
   -t            The CVS tag name
